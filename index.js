@@ -1,10 +1,3 @@
-// ==UserScript==
-// @name         Jira
-// @namespace    http://tampermonkey.net/
-// @match        https://saipos.atlassian.net/jira/software/projects/SP/boards/15*
-// @grant        none
-// @require https://code.jquery.com/jquery-latest.js
-// ==/UserScript==
 (function() {
     'use strict';
 
